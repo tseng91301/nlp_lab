@@ -1,0 +1,14 @@
+Extract the most important keywords or key phrases that summarize the article.
+
+Article 1:
+Artificial intelligence is transforming industries by automating repetitive tasks and improving data-driven decision making.
+
+Article 1 keywords:
+- artificial intelligence
+- automation
+- data-driven decision making
+
+Article 2:
+INPUT_PLACEHOLDER
+
+Article 2 keywords:

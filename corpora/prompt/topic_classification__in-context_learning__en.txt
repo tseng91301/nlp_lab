@@ -1,0 +1,12 @@
+Classify the article into one or more of the following topics: Politics, Economy, Technology, Sports, Culture, Health, Environment.
+
+Article 1:
+Apple unveiled its latest iPhone model featuring a faster processor and improved camera technology.
+
+Article 1 topic:
+- Technology
+
+Article 2:
+INPUT_PLACEHOLDER
+
+Article 2 topic:

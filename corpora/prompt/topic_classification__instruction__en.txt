@@ -1,0 +1,4 @@
+Classify the article into one or more of the following topics: Politics, Economy, Technology, Sports, Culture, Health, Environment.
+
+Article:
+INPUT_PLACEHOLDER

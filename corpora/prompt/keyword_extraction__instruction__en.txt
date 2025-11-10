@@ -1,0 +1,4 @@
+Extract the most important keywords or key phrases that summarize the article.
+
+Article:
+INPUT_PLACEHOLDER
